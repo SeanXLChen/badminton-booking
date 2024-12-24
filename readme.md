@@ -1,4 +1,4 @@
-# Perfectmind Badminton Court Booking Bot
+# Perfectmind Activities Booking Bot
 
 Bot for automating activities bookings on NVRC's Perfectmind system. 
 
